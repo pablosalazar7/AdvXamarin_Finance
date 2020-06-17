@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="com.companyname.finance">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="com.companyname.finance" android:installLocation="auto">
   <uses-sdk android:minSdkVersion="21" android:targetSdkVersion="28" />
   <uses-permission android:name="android.permission.INTERNET" />
   <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
   <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-  <application android:label="Finance.Android" android:name="android.app.Application" android:allowBackup="true" android:icon="@mipmap/icon">
+  <application android:label="Finance.Android" android:icon="@mipmap/icon" android:name="android.app.Application" android:allowBackup="true">
     <activity android:configChanges="orientation|screenSize" android:icon="@mipmap/icon" android:label="Finance" android:theme="@style/MainTheme" android:name="crc64512182c10b6acb3a.MainActivity">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />

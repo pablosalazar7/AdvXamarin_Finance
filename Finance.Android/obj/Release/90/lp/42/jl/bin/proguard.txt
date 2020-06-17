@@ -1,4 +1,4 @@
-# The following options are set by default.
-# Make sure they are always set, even if the default proguard config changes.
--dontskipnonpubliclibraryclasses
--verbose
+-keep public class * extends androidx.versionedparcelable.VersionedParcelable
+-keep public class android.support.**Parcelizer { *; }
+-keep public class androidx.**Parcelizer { *; }
+-keep public class androidx.versionedparcelable.ParcelImpl
