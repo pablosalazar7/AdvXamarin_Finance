@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "dGqAw2kJRWOOdG1E0fLUos401AyUZWhGzGYthjS18d1LKAQYRj4q7Fy+jvA4rYnS97Z2pAp/PxU97YSIhDbG0w==",
+  "dgSpecHash": "eAwx8Eoc+jL3Lyuj2/kWjN4wa5iFRHg1tpSrNJdL8OGvrtweeF2KlBd9w/UaahhT2O3U+pzxPm0fdFVI1YNHrg==",
   "success": true,
   "projectFilePath": "C:\\Users\\phsl7\\source\\repos\\Finance\\Finance\\Finance\\Finance.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\phsl7\\.nuget\\packages\\microsoft.appcenter\\3.2.2\\microsoft.appcenter.3.2.2.nupkg.sha512",
+    "C:\\Users\\phsl7\\.nuget\\packages\\microsoft.appcenter.analytics\\3.2.2\\microsoft.appcenter.analytics.3.2.2.nupkg.sha512",
+    "C:\\Users\\phsl7\\.nuget\\packages\\microsoft.appcenter.crashes\\3.2.2\\microsoft.appcenter.crashes.3.2.2.nupkg.sha512",
     "C:\\Users\\phsl7\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\phsl7\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
     "C:\\Users\\phsl7\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
